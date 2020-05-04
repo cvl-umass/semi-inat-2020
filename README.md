@@ -199,7 +199,8 @@ corresponds to the top five predicted categories separated by
 space. 
 You should have one row for each test image. Although we only
 use top-1 accuracy for the leaderboard, the top-5 predictions will be
-used for more detailed analysis by the competition organizers.
+used for more detailed analysis by the competition organizers. 
+A [sample solution](solution_sample.csv) is provided.
 
 ## Baseline Performace
 The performance using a fine-tuned ImageNet pre-trained
