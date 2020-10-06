@@ -23,6 +23,8 @@ with the dataset.
 * 3/14/2020: We found problems in the data annoataion. We will fix and collect new data soon. The competition is paused for now.
 * 3/25/2020: **Dataset has been updated (v2), please use the new version. If you downloaded before 3/25 please discard them.**
 * 4/23/2020: **The deadline has been extended from 5/11 to 5/26**.
+* 10/6/2020: Test set labels are released.
+
 
 ### Important Dates
 |Event|Date|
@@ -31,7 +33,6 @@ Data Released|March 9, 2020|
 Submission Server Open |March 9, 2020|
 Submission Deadline|May 26, 2020|
 Winners Announced|June 1, 2020|
-Test Set Labels Released|Oct 6, 2020|
 
 ### Content
 - [Dataset Intro](#the-semi-supervised-inaturalist-aves-dataset)
