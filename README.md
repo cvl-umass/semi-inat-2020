@@ -31,6 +31,7 @@ Data Released|March 9, 2020|
 Submission Server Open |March 9, 2020|
 Submission Deadline|May 26, 2020|
 Winners Announced|June 1, 2020|
+Test Set Labels Released|Oct 6, 2020|
 
 ### Content
 - [Dataset Intro](#the-semi-supervised-inaturalist-aves-dataset)
@@ -201,6 +202,11 @@ You should have one row for each test image. Although we only
 use top-1 accuracy for the leaderboard, the top-5 predictions will be
 used for more detailed analysis by the competition organizers. 
 A [sample solution](solution_sample.csv) is provided.
+
+
+## Test Set Labels
+[Test set labels](solution.csv) are provided.
+
 
 ## Baseline Performace
 The performance using a fine-tuned ImageNet pre-trained
