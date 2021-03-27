@@ -24,8 +24,8 @@ with the dataset.
 * 3/25/2020: **Dataset has been updated (v2), please use the new version. If you downloaded before 3/25 please discard them.**
 * 4/23/2020: **The deadline has been extended from 5/11 to 5/26**.
 * 10/6/2020: Test set labels are released.
-* 3/10/2021: **[Second Semi-Supervised Challenge](https://github.com/cvl-umass/semi-inat-2021) at FGVC 8 at CVPR 2021 is released.**
-
+* 3/10/2021: **The [Second Semi-Supervised iNat Challenge](https://github.com/cvl-umass/semi-inat-2021) at FGVC 8 at CVPR 2021 is released.**
+* 3/11/2021: A [tech report](https://arxiv.org/abs/2103.06937) of this challenge is released on arXiv.
 
 ### Important Dates
 |Event|Date|
@@ -43,6 +43,7 @@ Winners Announced|June 1, 2020|
 - [Baseline](#baseline-performace)
 - [Terms of Use](#terms-of-use)
 - [Acknowledgements](#acknowledgements)
+- [Citation](#citation)
 
 
 ## The Semi-Supervised iNaturalist-Aves Dataset
@@ -231,6 +232,18 @@ By downloading this dataset you agree to the following terms:
 4. UMass Amherst makes no representations or warranties regarding the data, including but not limited to warranties of non-infringement or fitness for a particular purpose.
 5. You accept full responsibility for your use of the data and shall defend and indemnify UMass Amherst, including its employees, officers, and agents, against any and all claims arising from your use of the data, including but not limited to your use of any copies of copyrighted images that you may create from the data.
 
+## Citation
+If you are using this dataset, please cite this [arXiv paper](https://arxiv.org/abs/2103.06937):
+```
+@misc{su2021semisupervised,
+      title={The Semi-Supervised iNaturalist-Aves Challenge at FGVC7 Workshop}, 
+      author={Jong-Chyi Su and Subhransu Maji},
+      year={2021},
+      eprint={2103.06937},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Acknowledgements
 FGVC team, Kaggle team, iNaturalist. Special thanks to Grant van Horn
