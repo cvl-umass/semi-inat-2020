@@ -149,7 +149,7 @@ You can download the dataset files here or on [Kaggle](https://www.kaggle.com/c/
       
   * Test [images [722MB]](https://drive.google.com/file/d/1OVEA2lNJnYM5zxh3W_o_Q6K5lsNmJ9Hy/view?usp=sharing)
       
-  * All labeled/unabeled training/val/test [annotations [2.0MB]](https://drive.google.com/file/d/1nX-ob0rk_WpylgiZyf7vxOrgJJXHraPi/view?usp=sharing)
+  * All labeled/unabeled training/val/test [annotations [2.0MB]](https://github.com/cvl-umass/semi-inat-2020/blob/master/annotation.tar.gz)
 
 We follow the annotation format of the [COCO dataset](http://mscoco.org/dataset/#download) and add additional fields. The annotations are stored in the [JSON format](http://www.json.org/) and are organized as follows:
 
