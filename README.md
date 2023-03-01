@@ -26,6 +26,7 @@ with the dataset.
 * 10/6/2020: Test set labels are released.
 * 3/10/2021: **The [Second Semi-Supervised iNat Challenge](https://github.com/cvl-umass/semi-inat-2021) at FGVC 8 at CVPR 2021 is released.**
 * 3/11/2021: A [tech report](https://arxiv.org/abs/2103.06937) of this challenge is released on arXiv.
+* 3/1/2023: [Species names](https://github.com/cvl-umass/semi-inat-2020/blob/master/semi_aves_class_names.txt) of the in-class categories are released.
 
 ### Important Dates
 |Event|Date|
